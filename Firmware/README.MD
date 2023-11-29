@@ -30,3 +30,5 @@ U29 = 1818-3673
 The service manual instead mentions only two 128Kbyte ROMs: U16 & U27
 So it's possible that later revisions replaced the six 32KByte EPROMs (192Kbyte
 of System ROM) with only two 128Kbyte ROMs.
+
+![Memory PCA](HP_45711_Memory_PCA.jpg)
