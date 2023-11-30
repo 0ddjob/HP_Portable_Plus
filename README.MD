@@ -34,6 +34,11 @@ It requires a 10-13VAC transformer for recharging the battery via a custom socke
 I also need to finish building the USB-to-HPIL interface I have so I can transfer software:
 http://www.jeffcalc.hp41.eu/hpil/
 
+[YouTube Videos: Part 1](https://youtu.be/FH-3l5CuBeI)
+[YouTube Videos: Part 2](https://youtu.be/hfl4tc9oX_w)
+[YouTube Videos: Part 3](https://youtu.be/4Jja59OX5Ic)
+
+
 ![HP Model 45711](HP_Model_47511.jpg)
 
 ![Power supply](HP_Model_45711_power.jpg)
