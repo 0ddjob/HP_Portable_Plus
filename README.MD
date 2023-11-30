@@ -14,7 +14,9 @@ My example is the 45711B ... the "B" indicates 128KB RAM and no modem:
 An additional letter indicates the language/keyboard, for example 45711FF indicates French.  No additional letter means the US version.  More information from the documentation here:
 http://www.hpmuseum.net/exhibit.php?hwdoc=49
 
-{The service manual is pretty good}
+{The service manual is pretty good}<br>
+
+[Technical Reference Manual](http://www.bitsavers.org/pdf/hp/portablePlus/45559-90001_Portable_PLUS_Technical_Reference_Manual_Aug1985.pdf)
 
 There are some expansion options - I have an additional 128KB of RAM in a "memory drawer":
 - 82981A ... 128KB expansion RAM
@@ -33,3 +35,5 @@ I also need to finish building the USB-to-HPIL interface I have so I can transfe
 http://www.jeffcalc.hp41.eu/hpil/
 
 ![HP Model 45711](HP_Model_47511.jpg)
+
+![Power supply](HP_Model_45711_power.jpg)
